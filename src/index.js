@@ -58,13 +58,13 @@ class Example extends React.Component {
                                                 badge={<Caption level={'1'}>💻</Caption>}
                                                 description="Кодит всякую всячину">Арсений Лиунша</SimpleCell>
                                 </Link>
-                                <Link href={'https://arslee.dev'}>
+                                <Link href={'https://vk.com/Igorechek06'}>
                                     <SimpleCell before={<Avatar size={48}
                                                                 src={'https://sun5-3.userapi.com/s/v1/ig2/E83zzDNNRe7AhYJY9Wd0Bn6MSSDVSnc9rj9Gon6mUFutdIAeGeqgKgeAMJfghDNYgBcRGj7_LkcIrNRAaVx9HekD.jpg?size=200x0&quality=96&crop=132,232,1148,1148&ava=1'}/>}
                                                 badge={<Caption level={'1'}>📝</Caption>}
                                                 description="Ничуть не хуже юзера сверху">Игорь Толмачёв</SimpleCell>
                                 </Link>
-                                <Link href={'https://arslee.dev'}>
+                                <Link href={'https://vk.com/krutosvip'}>
                                     <SimpleCell before={<Avatar size={48}
                                                                 src={'https://sun5-3.userapi.com/s/v1/ig2/toMH8CpmbHQaf-q5qr0-k8Ot3DVibgumt7jaVjcPm8Yd8t4bddxfY2PrjZXqHQl8sV5yx47-FRB6yLGVQQduMjlB.jpg?size=200x0&quality=96&crop=0,0,416,416&ava=1'}/>}
                                                 badge={<Caption level={'1'}>⚙️</Caption>}
